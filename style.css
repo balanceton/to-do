@@ -1,0 +1,22 @@
+h1 {
+  text-align: center;
+  margin-top: 2cm;
+}
+
+li {
+  text-size: 40px;
+}
+
+#userinput {
+  margin-left: 14cm;
+  width: 6cm;
+}
+
+* {
+  background-color: #376681;
+  background-image: linear-gradient(160deg, #d2e75a 0%, #5f6902 100%);
+}
+
+ul {
+  margin-left: 14cm;
+}
